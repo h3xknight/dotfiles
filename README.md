@@ -1,21 +1,21 @@
 # TheForge Workstation dotfiles
 
 ## Requirements
-- [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH){:target="_blank"}
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh?tab=readme-ov-file#basic-installation){:target="_blank"}
-- [tmux](https://github.com/tmux/tmux/wiki/Installing){:target="_blank"}
-- [tpm](https://github.com/tmux-plugins/tpm?tab=readme-ov-file#installation){:target="_blank"}
+- [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh?tab=readme-ov-file#basic-installation)
+- [tmux](https://github.com/tmux/tmux/wiki/Installing)
+- [tpm](https://github.com/tmux-plugins/tpm?tab=readme-ov-file#installation)
 
 ### Dependencies
-- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh){:target="_blank"}
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh){:target="_blank"}
-- [bat](https://github.com/sharkdp/bat?tab=readme-ov-file#installation){:target="_blank"}
-- [eza](https://github.com/eza-community/eza/blob/main/INSTALL.md){:target="_blank"}
-- [grc](https://github.com/garabik/grc/blob/master/install.sh){:target="_blank"}
-- [colorize](https://github.com/raszi/colorize){:target="_blank"}
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh)
+- [bat](https://github.com/sharkdp/bat?tab=readme-ov-file#installation)
+- [eza](https://github.com/eza-community/eza/blob/main/INSTALL.md)
+- [grc](https://github.com/garabik/grc/blob/master/install.sh)
+- [colorize](https://github.com/raszi/colorize)
 
 ### Tools
-- [stow](https://www.gnu.org/software/stow/){:target="_blank"}
+- [stow](https://www.gnu.org/software/stow/)
 
 ## Install
 
